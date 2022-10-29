@@ -28,33 +28,44 @@ I'm a software engineer who is passionate about making contributing to open-sour
 * 🤝  I'm open to collaborating on new idea
 
 ### Socials
-<p align="left"> <a href="https://www.dev.to/saksh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/saurabhtopthon01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saksh05/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@saurabhsingh050505" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saksh05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/saksh05/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.twitter.com/saksh05" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.dev.to/saksh" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/DEV-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" /></a>
+<a href="http://www.medium.com/@saurabhsingh050505" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-0A0A0A?logo=Medium&logoColor=white&style=for-the-badge" /></a></p>
 
 ### Skills
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a></p>
-<p align="left">
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/NextJS-000000?logo=Next.js&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/ExpressJS-000000?logo=Express&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Webpack-000000?logo=webpack&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=white&style=flat" /><br />
+
+ <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Styled Component-DB7093?logo=styled-components&logoColor=black&style=flat" />
+ <img src="https://img.shields.io/badge/MUI-007FFF?logo=MUI&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat" /><br />
+
+ <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat" /><br />
+ 
+ <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white&style=flat" /><br />
+
+ <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat" />
+ <img src="https://img.shields.io/badge/AdobeXD-FF61F6?logo=AdobeXD&logoColor=white&style=flat" /><br />
+ 
+ <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat" />
+
 </p>
 
 ### Badges
