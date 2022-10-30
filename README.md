@@ -19,7 +19,7 @@ Hi I'm Saurabh 👋
   <img width="100%" src="https://github.com/saurabhtopthon01/saurabhtopthon01/blob/main/assets/cover.png" alt="cover" />
 </div>
 <p align="left">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Redux and Typescript. I'm a developer of responsive and attractive ideas. Open to collaborate on new and exciting ideas .
+I'm a Full-stack developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Redux and Typescript. I'm a developer of responsive and attractive ideas. Open to collaborate on new and exciting ideas .
 </p>
 
 * 🌍  I'm based in India
