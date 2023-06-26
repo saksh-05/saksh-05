@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi I'm Saurabh 👋
 ====================================
 <div align="center">
-  <img width="100%" src="https://github.com/saurabhtopthon01/saurabhtopthon01/blob/main/assets/cover.png" alt="cover" />
+  <img width="100%" src="https://github.com/saksh-05/saksh-05/blob/main/assets/cover.png" alt="cover" />
 </div>
 <p align="left">
 I'm a Full-stack developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Redux and Typescript. I'm a developer of responsive and attractive ideas. Open to collaborate on new and exciting ideas .
